@@ -1,7 +1,7 @@
 {
     "env":{
-        "DB_USER":"yacine7",
-        "DB_PASSWORD":"databaseyou",
+        "DB_USER":"",
+        "DB_PASSWORD":"",
         "DB_NAME":"Place",
         "JWT_KEY":"Here_YOU-Add_YOUR_PRIVATE_KEY"
         
